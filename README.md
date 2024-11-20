@@ -1,5 +1,8 @@
 # TripAdvisor E-Management App (Salesforce-Based)
 
+![dashboard](https://github.com/user-attachments/assets/9b4ff77e-46cf-4e41-9f1a-d2ac96dddb1a)
+
+
 ### Your All-in-One Travel Companion, Powered by Salesforce  
 This project leverages Salesforce to deliver a seamless travel management experience. Plan, book, and enhance your trips with comprehensive tools for both travelers and travel businesses, all built within the Salesforce ecosystem.
 
@@ -73,3 +76,5 @@ This project leverages Salesforce to deliver a seamless travel management experi
    - Navigate to the **TripAdvisor E-Management App**.
 
 ---
+
+
